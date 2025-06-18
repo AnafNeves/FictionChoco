@@ -293,14 +293,9 @@ The final sample included 189 participants (Mean age = 28.4, SD = 14.0, range: [
 
 For the second sample, the procedure was relatively similar to that of the first sample (described in Study 1) with a few key differences.
 
-The main difference was the introduction of an experimental manipulation: while in the first study, participants were simply informed of the presence of AI-generated or face pictures, the second sample's paradigm included (randomized) cues before each stimuli, indicating whether the upcoming image was "AI-generated" or "Photograph" (note that again, all images were in reality photographs). Specifically, at the beginning of the experiment, a cover story was presented, presenting the study as a partnership with an AI startup aimed at testing the quality of a new face AI-generation algorithm. Following that, they would see the 109 neutral-expression photographs from the AMFD database (1 s), each preceded by a textual cue indicating whether the image was "AI-generated" or "Photograph" (2 s). Ratings of attractiveness, beauty and trustworthiness were collected after each image.
-
-**Ana can you verify the timings?**
+The main difference was the introduction of an experimental manipulation: while in the first study, participants were simply informed of the presence of AI-generated or face pictures, the second sample's paradigm included (randomized) cues before each stimuli, indicating whether the upcoming image was "AI-generated" or "Photograph" (note that again, all images were in reality photographs). Specifically, at the beginning of the experiment, a cover story was presented, presenting the study as a partnership with an AI startup aimed at testing the quality of a new face AI-generation algorithm. Following that, they would see the 109 neutral-expression photographs from the AMFD database (2 s), each preceded by a textual cue indicating whether the image was "AI-generated" or "Photograph" (1 s). Ratings of attractiveness, beauty and trustworthiness were collected after each image.
 
 This phase of the experiment would conclude with multi-choice questions asking participants to indicate whether they believed in the cover story. The second phase would start with a new set of instructions revealing (misleadingly)...
-
-
-
 
 
 <!-- Most importantly, subjective ratings (of reality and attractiveness) were collected using a 7-point Likert scale ranging from 0 to 6 (which included a clear midpoint option), rather than a visual analog scale. -->
